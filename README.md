@@ -63,7 +63,21 @@ Total: $280.00
 
 ## 📸 Screenshots
 
-_(Add UI screenshots here if available.)_
+### 🏠 Home Page  
+![Home Page](screenshots/Homepage.jpg)
+
+### 🛒 Cart Page  
+![Cart Page](screenshots/cart-page.jpg)
+
+### 👟 Product Page  
+![Product Page](screenshots/product-page.jpg)
+
+### 📂 App Drawer  
+![App Drawer](screenshots/app-drawer.jpg)
+
+### 👤 Profile Page  
+![Profile Page](screenshots/profile.jpg)
+
 
 ## 🔮 To-Do
 
