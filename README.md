@@ -67,9 +67,9 @@ Total: $280.00
 |-----------|-----------|---------------|
 | <img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/Homepage.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/cart-page.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/product-page.jpg" width="250"/> |
 
-| App Drawer | Profile Page | Coming Soon |
-|------------|--------------|--------------|
-| <img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/app-drawer.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/profile.jpg" width="250"/> | <img src="https://via.placeholder.com/250x500?text=Coming+Soon" width="250"/> |
+| App Drawer | Profile Page | 
+|------------|--------------|
+| <img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/app-drawer.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/profile.jpg" width="250"/> |
 
 
 ## 🔮 To-Do
