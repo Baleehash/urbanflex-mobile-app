@@ -61,22 +61,15 @@ Total: $280.00
 - 🧠 UI and structure inspired by Mitch Koko’s Flutter tutorial:  
   [🖥️ YouTube Video](https://www.youtube.com/watch?v=UcwsuZP071Y)
 
-## 📸 Screenshots
+## 🖼️ Screenshots
 
-### 🏠 Home Page  
-<img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/Homepage.jpg" width="400"/>
+| Home Page | Cart Page | Product Page |
+|-----------|-----------|---------------|
+| <img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/Homepage.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/cart-page.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/product-page.jpg" width="250"/> |
 
-### 🛒 Cart Page  
-<img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/cart-page.jpg" width="400"/>
-
-### 👟 Product Page  
-<img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/product-page.jpg" width="400"/>
-
-### 📂 App Drawer  
-<img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/app-drawer.jpg" width="400"/>
-
-### 👤 Profile Page  
-<img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/profile.jpg" width="400"/>
+| App Drawer | Profile Page | Coming Soon |
+|------------|--------------|--------------|
+| <img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/app-drawer.jpg" width="250"/> | <img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/profile.jpg" width="250"/> | <img src="https://via.placeholder.com/250x500?text=Coming+Soon" width="250"/> |
 
 
 ## 🔮 To-Do
