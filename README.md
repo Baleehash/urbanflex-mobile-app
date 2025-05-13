@@ -64,19 +64,20 @@ Total: $280.00
 ## 📸 Screenshots
 
 ### 🏠 Home Page  
-![Home Page](screenshots/Homepage.jpg)
+![Home Page](https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/Homepage.jpg)
 
 ### 🛒 Cart Page  
-![Cart Page](screenshots/cart-page.jpg)
+![Cart Page](https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/cart-page.jpg)
 
 ### 👟 Product Page  
-![Product Page](screenshots/product-page.jpg)
+![Product Page](https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/product-page.jpg)
 
 ### 📂 App Drawer  
-![App Drawer](screenshots/app-drawer.jpg)
+![App Drawer](https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/app-drawer.jpg)
 
 ### 👤 Profile Page  
-![Profile Page](screenshots/profile.jpg)
+![Profile Page](https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/profile.jpg)
+
 
 
 ## 🔮 To-Do
