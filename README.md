@@ -64,20 +64,19 @@ Total: $280.00
 ## 📸 Screenshots
 
 ### 🏠 Home Page  
-![Home Page](https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/Homepage.jpg)
+<img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/Homepage.jpg" width="400"/>
 
 ### 🛒 Cart Page  
-![Cart Page](https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/cart-page.jpg)
+<img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/cart-page.jpg" width="400"/>
 
 ### 👟 Product Page  
-![Product Page](https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/product-page.jpg)
+<img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/product-page.jpg" width="400"/>
 
 ### 📂 App Drawer  
-![App Drawer](https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/app-drawer.jpg)
+<img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/app-drawer.jpg" width="400"/>
 
 ### 👤 Profile Page  
-![Profile Page](https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/profile.jpg)
-
+<img src="https://raw.githubusercontent.com/Baleehash/urbanflex-mobile-app/main/screenshoots/profile.jpg" width="400"/>
 
 
 ## 🔮 To-Do
@@ -89,7 +88,7 @@ Total: $280.00
 
 ## 👨‍💻 Author
 
-- **Name:** [Your Name]  
+- **Name:** Iqbal Maulana  
 - **GitHub:** [https://github.com/Baleehash](https://github.com/Baleehash)
 
 ## 📄 License
