@@ -31,7 +31,7 @@ lib/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/urbanflex.git
+   git clone https://github.com/Baleehash/urbanflex-mobile-app.git
    cd urbanflex
    ```
 
@@ -50,10 +50,10 @@ lib/
 This feature creates a pre-filled WhatsApp message containing cart item names and total price:
 ```
 Hello! I want to order:
-- UrbanMax Runner ($79.99)
-- FlexLite Low ($49.99)
+- Air Jordan 1 (low) ($140)
+- Air Jordan 1 (low) ($140)
 
-Total: $129.98
+Total: $280.00
 ```
 
 ## 🙌 Credits
@@ -75,7 +75,7 @@ _(Add UI screenshots here if available.)_
 ## 👨‍💻 Author
 
 - **Name:** [Your Name]  
-- **GitHub:** [https://github.com/your-username](https://github.com/your-username)
+- **GitHub:** [https://github.com/Baleehash](https://github.com/Baleehash)
 
 ## 📄 License
 
